@@ -7,7 +7,7 @@
 *.c text
 *.cc text
 *.cxx text
-*.cpp text
+*.cpp text diff
 *.c++ text
 *.hpp text
 *.h text
