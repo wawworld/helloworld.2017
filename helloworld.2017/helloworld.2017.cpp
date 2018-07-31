@@ -11,6 +11,7 @@ int main()
 	printf("hollo world! //  next ");
 
 test;
+hello;
 
 	return 0;
 }
