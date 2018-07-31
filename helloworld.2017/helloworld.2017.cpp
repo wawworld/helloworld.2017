@@ -6,12 +6,11 @@
 
 int main()
 {
-	printf("hollo world! //  next ");
+	printf("hollo 월드! //  next ");
 	printf("hollo world! //  next ");
 	printf("hollo world! //  next ");
 
-test;
-hello;
+
 
 	return 0;
 }
